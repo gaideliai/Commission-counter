@@ -5,7 +5,8 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Buysera\\CommissionTask\\": "src"
+            "Buysera\\CommissionTask\\": "src",
+            "Buysera\\CommissionTask\\Exceptions\\": "src/exceptions"
         }
     },
     "autoload-dev": {
